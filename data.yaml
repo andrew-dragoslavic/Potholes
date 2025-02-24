@@ -1,0 +1,4 @@
+train: /home/andrewdragoslavic/ECE416/data/1/images
+val: /home/andrewdragoslavic/ECE416/data/1/images  # or a separate validation split if available
+nc: 1
+names: ['pothole']
