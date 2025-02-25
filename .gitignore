@@ -1,5 +1,8 @@
 # Ignore the virtual environment directory
 venv310/
 
+runs/detect/track/
+runs/detect/track3/
+
 # Ignore all .json files
 *.json
