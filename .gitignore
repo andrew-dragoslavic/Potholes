@@ -8,3 +8,4 @@ runs/detect/train/
 *.json
 
 yolov8n.pt
+test.mp4
