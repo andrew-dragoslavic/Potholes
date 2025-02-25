@@ -6,3 +6,5 @@ runs/detect/track3/
 runs/detect/train/
 # Ignore all .json files
 *.json
+
+yolov8n.pt
